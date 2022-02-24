@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pastoral essay lamenting the death of our most gracious Queen Mary, of blessed memory by Mr. Manning.</title>
+            <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51807</idno>
+            <idno type="STC">Wing M488</idno>
+            <idno type="STC">ESTC R32048</idno>
+            <idno type="EEBO-CITATION">12307228</idno>
+            <idno type="OCLC">ocm 12307228</idno>
+            <idno type="VID">59303</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59303)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1015:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pastoral essay lamenting the death of our most gracious Queen Mary, of blessed memory by Mr. Manning.</title>
+                  <author>Manning, Mr. (Francis), fl. 1688-1716.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Weld ... and are to be sold by J. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCV [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Errata: p. 10.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="4" facs="tcp:59303:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:59303:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A Paſtoral Eſſay, Lamenting the DEATH Of our Moſt Gracious Queen MARY, Of Bleſſed Memory.</p>
+            <p>By Mr. <hi>MANNING.</hi>
+            </p>
+            <q>
+               <l>Interitum monteſque feri, Sylvaeque loquuntur.</l>
+               <bibl>Virg.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Weld,</hi> at the <hi>Crown</hi> between the <hi>Temple</hi>-Gates in <hi>Fleet-ſtreet:</hi> And are to be Sold by <hi>J. Whitlock,</hi> near <hi>Sta<g ref="char:EOLhyphen"/>tioners-Hall,</hi> MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:59303:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:59303:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To the Right Honourable Sir JOHN SUMMERS, Kt. Lord Keeper of the Great Seal of ENGLAND, and one of His Majeſties Moſt Honourable Pri<g ref="char:EOLhyphen"/>vy Council.</head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>AMongſt the pious acknowledgments, which have been lately paid to the Memory of our late Queen, This comes, tho' leſs deſerving, to crave your Lordſhips Patronage. The true concern of its Author, will, I hope, in ſome ſort excuſe the errors of the Poem. 'Tis Paſtoral, my Lord: A kind of Verſe, us'd amongſt Shepherds in old time, that admits of nothing affected, or diſagreeing to the pureſt Innocence, ſuch as was practiſed in the Golden Age. I pre<g ref="char:EOLhyphen"/>ſume not hereby to inform your Lordſhip of the Nature of Paſtorals, but to vindicate that Verſe from the ill opinions of ſome, who, me<g ref="char:EOLhyphen"/>thinks, by diſapproving of it, muſt be no Friends to Vertues and In<g ref="char:EOLhyphen"/>nocence. But leſt I prove troubleſome to your Lordſhip, whoſe Hours are of infinite Value and Importance, I humbly begg your Lordſhips acceptance of this Eſſay, and the honour to ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt Humble, and moſt devoted Servant. F. M.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:59303:3"/>
+            <!-- PDF PAGE 3 -->
+            <pb n="5" facs="tcp:59303:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>A PASTORAL: Lamenting the Death of the Late QUEEN.</head>
+            <stage>Damon. Melampus.</stage>
+            <sp>
+               <speaker>Mel.</speaker>
+               <lg>
+                  <l>COME hither, <hi>Damon:</hi> I have one demand</l>
+                  <l>To make, which well deſerves a faithful hand.</l>
+                  <l>I know thee grateful, and of tender mind,</l>
+                  <l>Ready to pleaſe, and moulded to be kind.</l>
+                  <l>You well recall how at <hi>Adonis</hi> Feaſt,</l>
+                  <l>Amongſt the tuneful Swains, at your requeſt,</l>
+                  <l>At your requeſt, tho' much unskill'd in Lays,</l>
+                  <l>I play'd upon my Pipe, and ſung my <hi>Damon</hi>'s praiſe.</l>
+                  <l>Shepherd, I piped, and ſung with all my Might,</l>
+                  <l>Becauſe 'twas pleaſing in my Shepherd's ſight.</l>
+                  <l>Now all I ask is, Grant me one ſoft hour,</l>
+                  <l>Soft as <hi>Aglae</hi>'s Arms, in yonder Bower:</l>
+                  <l>An unfrequented place, ſecure of ſhade,</l>
+                  <l>Fertile in wilds, for Grief moſt fitly made.</l>
+                  <l>There with Harmonious Reed, and tuneful breath,</l>
+                  <l>Thou ſhalt begin a Song of great <hi>Sylvana</hi>'s Death.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Oh! I am moſt unfit for ſuch a task,</l>
+                  <l>Not able to perform the Boon you ask.</l>
+                  <l>For ſo exalted doth the Theme appear,</l>
+                  <l>That it exceeds a lowly Shepherds Sphear.</l>
+                  <l>Beſides, ſhould I retire with thee, and Sing,</l>
+                  <l>My Flocks would ſtray to the forbidden Spring.</l>
+                  <l>Believe me, 'tis an ugly Water-place,</l>
+                  <l>Muddy, unwholeſom, round it noxious graſs.</l>
+                  <l>
+                     <pb n="6" facs="tcp:59303:4"/>
+                     <!-- PDF PAGE 4 -->
+Such faults all there abouts are lately ſeen,</l>
+                  <l>That now my Sheep graze always on the Green.</l>
+                  <l>Yet to oblige thee, Swain, my gentle Friend,</l>
+                  <l>For ſure I love thee well: I'll ſtrive to bend</l>
+                  <l>My Art-leſs Voice, and tune my mournful Reed,</l>
+                  <l>Pipe a ſad ſtrain, for Oh <hi>Sylvana</hi>'s! Dead.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <lg>
+                  <l>I know, kind Shepherd that the Subject's great,</l>
+                  <l>A lofty Theme, deſerving utmoſt State.</l>
+                  <l>Couldſt thou like <hi>Orpheus</hi> move inanimate's,</l>
+                  <l>Or play at fam'd <hi>Arion</hi>'s wondrous rate;</l>
+                  <l>Wer't thou the Favorite of all the Nine,</l>
+                  <l>The firſt in Song of all the tuneful line:</l>
+                  <l>If ſuch thou wert in voice, and ſuch in Lays,</l>
+                  <l>Yet wouldſt thou nor ſuffice to ſhew <hi>Sylvana</hi>'s praiſe</l>
+                  <l>But come, my Swain, what tho thou art not made</l>
+                  <l>To ſing great, lofty ſtrains, in Roman ſhade;</l>
+                  <l>A Shepherd's humble Verſe is full as well,</l>
+                  <l>To ſhew a true concern, and tender zeal.</l>
+                  <l>As to thy Flocks, I'll view them all the while,</l>
+                  <l>(And ſure my eyes are good,) leſt any ſpoil</l>
+                  <l>Be made, or they run roving to the Spring;</l>
+                  <l>Now let us ſit, and ſweetly, <hi>Damon,</hi> ſing.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <lg>
+                  <l>Mourn <hi>Britiſh</hi> woods; let every Swain deplore,</l>
+                  <l>Lament each Nymph: <hi>Sylvana</hi> is no more.</l>
+                  <l>O mournful time! O great and diſmal croſs!</l>
+                  <l>Such as theſe Woods n're ſaw before this loſs.</l>
+                  <l>Where have we been, <hi>Melampus?</hi> how employ'd?</l>
+                  <l>Wrapt up in joys, with various pleaſures cloy'd?</l>
+                  <l>It muſt be ſo: ſo calm was our Eſtate,</l>
+                  <l>Minds ſo united, and ſo fixt our Seat.</l>
+                  <l>We were ſo happy; but alas! the time</l>
+                  <l>Is grown more diſmal, and more ſad the clime.</l>
+                  <l>O mournful State! the Woods all chang'd appear,</l>
+                  <l>The Trees all wither'd, and the Streams not clear.</l>
+                  <l>
+                     <hi>Mourn, Britiſh woods; let every Swain deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament each Nymph:</hi> Sylvana <hi>is no more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Was ever Land ſo fortunately bleſt?</l>
+                  <l>Were ever ſhady Groves ſo well poſſeſt</l>
+                  <l>Of Lords? a pair without example ſeen,</l>
+                  <l>The happieſt, lovingſt Shepherds of the Green.</l>
+                  <l>
+                     <pb n="7" facs="tcp:59303:4"/>
+                     <!-- PDF PAGE 4 -->
+He, the Great Swain, unmatch'd in vertue, Love,</l>
+                  <l>Greatneſs, and all things elſe that Heroes move.</l>
+                  <l>Great in himſelf, but Greater in the Pride</l>
+                  <l>He took in his all-ſhining, lovely Bride.</l>
+                  <l>A Shepherdeſs ſo exquiſitely Fair,</l>
+                  <l>So Wiſe, ſo Good, in every thing ſo rare,</l>
+                  <l>That all Perfections ſeem'd to center there.</l>
+                  <l>So kind ſhe was, ſo juſt, ſo fit to ſway,</l>
+                  <l>She knew both how to Govern, and Obey.</l>
+                  <l>When Great affairs call'd the Great Swain abroad,</l>
+                  <l>
+                     <hi>Sylvana,</hi> to tranſact at home employ'd,</l>
+                  <l>That ſhe reviv'd our hopes, and baniſh'd all our fears.</l>
+                  <l>With ſo much Prudence manag'd all affairs,</l>
+                  <l>Each thing, each State ſo gracefully became,</l>
+                  <l>Whate're ſhe undertook immortaliz'd her Name.</l>
+                  <l>
+                     <hi>Mourn, Britiſh woods; let every Swain deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament each Nymph:</hi> Sylvana <hi>is no more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O Direful loſs! O moſt untimely Fate!</l>
+                  <l>Ye wretched Nymphs, mourn your unhappy State!</l>
+                  <l>Where's the ſupport of all your Glories fled?</l>
+                  <l>Mourn all your Ornament <hi>Sylvana</hi> Dead.</l>
+                  <l>Where are ye now, ye Woods? and where; ye Groves?</l>
+                  <l>How fare your Turtles, and how greet your Loves?</l>
+                  <l>Who ſhall adorn your Arbours, trim your Boughs,</l>
+                  <l>Who crop your Trees, and who your Graſs-beds mows?</l>
+                  <l>Where are ye now, ye Rivers? where, ye Springs?</l>
+                  <l>And ye, falſe Rocks? and where is't Echo ſings?</l>
+                  <l>All now deſerted, all your loſs bemoan,</l>
+                  <l>So Univerſal is the ſorrow grown.</l>
+                  <l>
+                     <hi>Mourn, Britiſh woods, Let every Swain deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament each Nymph:</hi> Sylvana <hi>is no more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Look where <hi>Apollo</hi> ſtands, the<note n="†" place="margin">Apollo <hi>was called</hi> Nomius a <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> paſ<g ref="char:EOLhyphen"/>cuum, becauſe he fed the Sheep of <hi>Admetus.</hi>
+                     </note> 
+                     <hi>Nomian</hi> God,</l>
+                  <l>Giving his anſwers by a ſilent Nod,</l>
+                  <l>No more <hi>Admetus</hi> flocks the Shepherd feeds,</l>
+                  <l>No more<note n="†" place="margin">A River of <hi>Theſſa<g ref="char:EOLhyphen"/>ly,</hi> upon whoſe banks <hi>Apollo</hi> is ſaid to have fed the flocks of King <hi>Admetus.</hi>
+                     </note> 
+                     <hi>Amphryſus</hi> hears his Oaten reed:</l>
+               </lg>
+               <lg>
+                  <l>See <hi>Pales</hi> too, how greif has chang'd her face,</l>
+                  <l>No longer ſeen that wonted, lively grace,</l>
+                  <l>Which made the Shepherds in a jovial ring,</l>
+                  <l>Dance to her praiſe, and to her honour ſing.</l>
+                  <l>
+                     <pb n="8" facs="tcp:59303:5"/>
+                     <!-- PDF PAGE 5 -->
+No more protects the fields, All deſart lyes,</l>
+                  <l>
+                     <hi>Pales</hi> the Goddeſs of the Shepherds crys.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Bacchus</hi> himſelf with all his jolly throng</l>
+                  <l>Contemns his Plays, and ſadly walks along.</l>
+                  <l>No more they trip it on the ſoftned ground,</l>
+                  <l>Nor more doth the two-handled Bowl go round.</l>
+                  <l>But all intent upon a ſolemn grief,</l>
+                  <l>The common care, purſue no vain relief.</l>
+               </lg>
+               <lg>
+                  <l>Behold great <hi>Pan,</hi> ſee, ſee the flowing tide</l>
+                  <l>Of Tears, with <hi>Daphnis</hi> piping by his ſide.</l>
+                  <l>What is't he plays, or to what tunes his breath?</l>
+                  <l>He plays, hard Fate! he ſings <hi>Sylvana</hi>'s Death.</l>
+                  <l>Let Hills and Dales expreſs their Panick fears,</l>
+                  <l>Lament ye Rocks, and ſoften into tears.</l>
+               </lg>
+               <lg>
+                  <l>Farewell ye gentle ſtreams of <hi>Thamiſis,</hi>
+                  </l>
+                  <l>
+                     <hi>Sylvana</hi> will no more your waters grace.</l>
+                  <l>How have I ſeen upon a Summers day,</l>
+                  <l>When <hi>Phaebus</hi> did extend a glorious ray,</l>
+                  <l>A Fleet of well-built boats, a goodly ſight,</l>
+                  <l>Attend the lov'd <hi>Sylvana</hi>'s Barge, nor parted till the night.</l>
+                  <l>Weep all ye River-Gods, bewail this loſs,</l>
+                  <l>Ye ſilver Streams bemoan this fatal croſs.</l>
+                  <l>
+                     <hi>Mourn, Britiſh woods; let every Swain deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament each Nymph:</hi> Sylvana <hi>is no more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Farewell ye Sheep, ye skipping Goats adieu,</l>
+                  <l>
+                     <hi>Sylvana</hi> walks no more in Fields with you.</l>
+                  <l>Farewell ye little Kids, and tender Lambs,</l>
+                  <l>A long farewell to Steers and butting Rams.</l>
+               </lg>
+               <lg>
+                  <l>Stop, ye melodious Birds, your tuneful throats,</l>
+                  <l>Alas! no more delight your warbling notes.</l>
+                  <l>
+                     <hi>Sylvana,</hi> that rejoyced to hear your charms,</l>
+                  <l>O wretched fate! is ſeized by Death's cold arms.</l>
+               </lg>
+               <lg>
+                  <l>But let ſad <hi>Philomel</hi> her Songs rehearſe,</l>
+                  <l>She varies not from her complaining courſe.</l>
+                  <l>Sing, mournful Bird, thy freedom juſtly take,</l>
+                  <l>The Burden of thy Song <hi>Sylvana</hi> make.</l>
+                  <l>
+                     <pb n="9" facs="tcp:59303:5"/>
+                     <!-- PDF PAGE 5 -->
+Ye Pitying Swans, a timely offering bring,</l>
+                  <l>And to the Great <hi>Sylvana</hi>'s Praiſe your dying Accents Sing.</l>
+               </lg>
+               <lg>
+                  <l>Strew Leaves, ye Shepherds, on the Deſart Ground,</l>
+                  <l>
+                     <hi>Sylvana</hi> Wills it: Let no Spring be found</l>
+                  <l>Unſhaded, then in ſad Proceſſion move,</l>
+                  <l>And ſhew the Shepherdeſs your lateſt Love.</l>
+                  <l>Then raiſe a Tomb, of coſtly make, refin'd,</l>
+                  <l>Of Whiteſt Marble, ſuited to her Mind.</l>
+                  <l>Which done, around it all her Name rehearſe,</l>
+                  <l>And fix thereon a Monumental Verſe.</l>
+               </lg>
+               <lg>
+                  <l>'Here lies <hi>Sylvana,</hi> hear it every VVind,</l>
+                  <l>'The Greateſt, Faire ſo beſt of VVomankind.</l>
+                  <l>'Unequall'd in her Virtue, VViſdom, Love,</l>
+                  <l>'In Goodneſs neareſt to the Gods above.</l>
+                  <l>'Snatcht by grim Death in her ſecureſt ſtate;</l>
+                  <l>'All Nature grieves at her untimely Fate:</l>
+                  <l>'Grieves, that ſo good a life ſhould have ſo ſhort a date.</l>
+                  <l>
+                     <hi>Mourn, Britiſh Woods; let every Swain deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament each Nymph:</hi> Sylvana <hi>is no more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Inexorable Death! Thou Bane to Joys!</l>
+                  <l>VVho, undiſtinguiſhing, the VVorld annoys.</l>
+                  <l>Could'ſt thou not find amongſt the meaner ſort</l>
+                  <l>An Object, fitter for thy fatal Dart?</l>
+                  <l>Muſt our <hi>Britannia</hi>'s glory thus be gone?</l>
+                  <l>Did poor <hi>Sylvana</hi> ever do thee wrong?</l>
+                  <l>Oh no! She knew not wrong, ſhe was all good,</l>
+                  <l>The ſweeteſt, kindeſt Nymph of all the VVood.</l>
+                  <l>Thou pity leſs Deſtroyer of the Fair,</l>
+                  <l>VVhen all ſeems calm, thou ſtill art making VVar.</l>
+                  <l>VVhat could provoke thee to commit this Fact?</l>
+                  <l>Believe me; twas a bold, and daring Act,</l>
+                  <l>To ſeize the Shepherdeſs, vold of all fear,</l>
+                  <l>VVhen the Great Shepherd ſtood himſelf ſo wear.</l>
+               </lg>
+               <lg>
+                  <l>Behold that Shepherd now whom laſt we Nam'd.</l>
+                  <l>Lord of this Iſland, much for Hunting fam'd.</l>
+                  <l>The Lyon-Chaſe beyond the reſt he loves,</l>
+                  <l>Eager of ſport, each Year to <hi>Gallia</hi> roves.</l>
+                  <l>
+                     <pb n="10" facs="tcp:59303:6"/>
+                     <!-- PDF PAGE 6 -->
+There Lives a Mighty Lyon, ſwift of pace,</l>
+                  <l>Commanding all the VVoods about the place.</l>
+                  <l>Unlimited, and ready to Devour,</l>
+                  <l>His Cruelty as boundleſs, as his Power.</l>
+                  <l>Thither with earneſt ſteps our Swain repairs,</l>
+                  <l>To eaſe the Countrey of their raging fears.</l>
+                  <l>Reſolv'd to tame the Monſter fierce, and wild,</l>
+                  <l>Or not to leave him, till he proves more mild.</l>
+                  <l>Oft has he made him ſmart, and oft repell'd</l>
+                  <l>His greateſt force, and oft his Rage has quell'd.</l>
+               </lg>
+               <lg>
+                  <l>See where he lies now, proſtrate on the Ground,</l>
+                  <l>No Comfort for the Shepherd can be found.</l>
+                  <l>He who n'ere knew how to Lament, or Yield,</l>
+                  <l>Unconquer'd in the Chaſe, and in the Field:</l>
+                  <l>Look how he Weeps, Expanding both his Arms,</l>
+                  <l>No more to taſt the Lov'd <hi>Sylvana</hi>'s Charms.</l>
+                  <l>
+                     <hi>Sylvana</hi> is the only word he ſpeaks,</l>
+                  <l>
+                     <hi>Sylvana</hi> is the only ſound he likes.</l>
+                  <l>Name Buſineſs to him, Name Affairs of State,</l>
+                  <l>His Anſwer ſtill deplores <hi>Sylvana</hi>'s Fate.</l>
+                  <l>Such Magick in <hi>Sylvana</hi>'s Name appears,</l>
+                  <l>That tho it heightens Grief, 'tis Muſick to his Ears.</l>
+                  <l>
+                     <hi>Mourn, Britiſh Woods; let every Swain deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>Lament each Nymph:</hi> Sylvana <hi>is no more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>She's gone, 'tis true, without Redemption fled,</l>
+                  <l>But reſts not properly among the Dead.</l>
+                  <l>Her Soul Immortal, as her Fame on Earth,</l>
+                  <l>Has mounted Heaven, and gain'd a ſecond Birth.</l>
+                  <l>The Good ſhall always live, and actions that are juſt</l>
+                  <l>Shall ever Bud, and Bloſſom in the Duſt.</l>
+               </lg>
+               <lg>
+                  <l>Here ſtop, my Muſe: Now, Shepherd, let us haſt,</l>
+                  <l>My Flocks by this time want, their Noons Repaſt.</l>
+                  <l>But firſt, <hi>Melampus,</hi> mind me what I ſay,</l>
+                  <l>I ſhall expect your Muſe another Day.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Page</hi> 7. <hi>Line</hi> 12 and 13. Read</p>
+            <lg>
+               <l>With ſo much Prudence manag'd all Affairs,</l>
+               <l>That ſhe reviv'd our Hopes, and baniſh'd all our Fears.</l>
+            </lg>
+            <pb facs="tcp:59303:6"/>
+            <!-- PDF PAGE 6 -->
+         </div>
+      </back>
+   </text>
+</TEI>
